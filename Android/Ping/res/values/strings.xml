@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ping</string>
+    <string name="action_settings">Settings</string>
+    <string name="recvmsg">Received messages will be displayed</string>
+    <string name="sendmsg">Enter the message to be sent</string>
+    <string name="send">Send</string>
+    <string name="ref">Refresh</string>
+    <string name="ipaddrhint">Enter the Server IP Address</string>
+    <string name="porthint">Enter the Port Number</string>
+    <string name="msghint">Enter the message</string>
+    <string name="sendtext">Send</string>
+    <string name="username">Enter the Username</string>
+    <string name="password">Enter the Password</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="login">Log In</string>
+    <string name="logscreen">Log Window</string>
+    <string name="reg">Register</string>
+    <string name="back">Back</string>
+    <string name="loggedinas">Logged In as</string>
+    <string name="client">Client Selected</string>
+    <string name="sendhint">Enter the Message</string>
+    <string name="log">Displays log</string>
+    <string name="recvtext">The received message will be displayed here</string>
+
+</resources>

@@ -81,7 +81,7 @@ parser.add_argument("-a","--hostadd", help="Enter the host address ",default="lo
 
 #parsing the arguements
 args = parser.parse_args()
-serverAddr =  args.hostadd # holds the host ipv6 address
+serverAddr =  args.hostadd
 serverPort =  50000 # holds the host port number
 
 try:

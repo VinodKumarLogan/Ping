@@ -77,7 +77,7 @@ def receiver(db,serverSocket,dbName):
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument("-a","--hostadd", help="Enter the host address ",default="localhost")
+parser.add_argument("-a","--hostadd", help="Enter the host address ",default="0.0.0.0")
 
 #parsing the arguements
 args = parser.parse_args()

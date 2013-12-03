@@ -24,7 +24,7 @@ def sender(db,serverSocket,dbName):
 				print "Sent newly arrived messages"
 
 parser = argparse.ArgumentParser()
-parser.add_argument("-a","--hostadd", help="Enter the host address ",default="localhost")
+parser.add_argument("-a","--hostadd", help="Enter the host address ",default="0.0.0.0")
 
 
 args = parser.parse_args()
